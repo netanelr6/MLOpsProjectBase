@@ -1,8 +1,8 @@
 # MLOpsProjectBase — Agent-Driven MLOps Hub
 
-A central Hub that manages distributed ML projects (Spokes) with reusable CI/CT, Docker, DVC and Weights & Biases automation, operated by LLM agents and documented in an Obsidian knowledge base.
+Agent-Driven MLOps Hub: centralized CI/CD infrastructure integrated with an Obsidian knowledge base, enabling autonomous AI agents to build, manage, and scale distributed ML projects.
 
-- **Hub**: this repo — workflows, base images, scripts.
+- **Hub**: this repo — workflows, base images, scripts (DVC, Weights & Biases).
 - **Spokes**: independent ML projects (`train.py`, `model.py`) calling the Hub.
 - **Brain**: [docs/index.md](docs/index.md) — architecture, tools, tasks, run logs.
 
