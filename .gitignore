@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+node_modules/
+.claude/settings.local.json
+.claude/vault-sync-state.json
+project_mind/Project Mirror/
+project_mind/.obsidian/workspace.json
