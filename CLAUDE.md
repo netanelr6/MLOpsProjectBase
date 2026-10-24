@@ -35,6 +35,6 @@ Planned (not yet created): `src/`, `scripts/`, `.github/workflows/`, `docker/` â
 - Decisions are ADRs in `docs/01-Architecture/decisions/`.
 
 ## Installed tooling
-- Skills (`.claude/skills/`): defuddle, json-canvas, knap, obsidian-bases, obsidian-cli, obsidian-markdown.
+- Skills (`.claude/skills/`): defuddle, json-canvas, knap, obsidian-bases, obsidian-cli, obsidian-markdown; plus obra/superpowers (brainstorming, writing-plans, executing-plans, TDD, systematic-debugging, code review, verification-before-completion, etc.).
 - Hook: Stop â†’ `.claude/hooks/sync_vault.py` (mirrors project files into `project_mind/Project Mirror/`).
 - `.claude/agents/` and `.claude/commands/` are empty, awaiting the user's input.
